@@ -21,7 +21,7 @@ var images = [
     { "src" : "../images/img2.jpg" }
 ];
 
-const url = 'http://starlord.hackerearth.com/recipe';
+const url = 'https://starlord.hackerearth.com/recipe';
   fetch(url)
   .then((resp) => resp.json())
   .then(function(data) {
