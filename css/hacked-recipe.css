@@ -1,0 +1,91 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*
+background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/hero.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+*/
+
+
+.recipe-card {
+    height: 350px;
+    margin: 5px;
+    width: 255px;
+    border-radius: 8px;
+}
+
+.recipe-1 {
+/*    background-image: url(../images/img2.jpg);*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.9) , black), url(../images/img2.jpg);
+    background-repeat: no-repeat;
+    background-size: 254px 365px;
+    background-size: cover;
+    background-position: center;
+}
+
+.recipe-2 {
+    background-image: linear-gradient(rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),white , white), url(../images/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: 255px 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.recipe-3 {
+/*    background-image: url(../images/img3.jpg);*/
+    background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.9) , black), url(../images/img3.jpg);
+    background-repeat: no-repeat;
+    background-size: 255px 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.recipe-4 {
+    background-image: linear-gradient(rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),white , white), url(../images/img8.jpg);
+    background-repeat: no-repeat;
+    background-size: 255px 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.recipe-5 {
+    background-image: linear-gradient(rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),white , white), url(../images/img6.jpg);
+    background-repeat: no-repeat;
+    background-size: 255px 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.recipe-6 {
+    background-image: url(../images/img5.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.9) , black), url(../images/img5.jpg);
+    background-repeat: no-repeat;
+    background-size: 255px 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.recipe-7 {
+    background-image: linear-gradient(rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),rgba(1, 1, 1, 0),white , white), url(../images/img1.jpg);
+    background-repeat: no-repeat;
+    background-size: 255px 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+.recipe-8 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.9) , black), url(../images/img4.jpg);
+    background-repeat: no-repeat;
+    background-size: 255px 349px;
+    background-size: cover;
+    background-position: center;
+}
+
+
